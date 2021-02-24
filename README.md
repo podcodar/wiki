@@ -1,2 +1,2 @@
 # wiki
-PodCodar wiki reposityory
+PodCodar wiki repository
