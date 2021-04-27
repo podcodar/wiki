@@ -11,6 +11,7 @@ Este repositório visa ser uma documentação central da PodCodar, aqui devem se
 ## Tópicos
 
 - Intro GIT: https://github.com/podcodar/wiki/blob/main/IntroGit.md
+-Baixando Extensões para o VSCode: https://github.com/podcodar/wiki/blob/main/Baixando%20a%20extens%C3%A3o%20pelo%20pr%C3%B3prio%20VSCode
 
 ***
 
