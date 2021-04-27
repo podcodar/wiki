@@ -11,7 +11,7 @@ Este repositório visa ser uma documentação central da PodCodar, aqui devem se
 ## Tópicos
 
 
--Preparando o VSCode para Windows: https://github.com/podcodar/wiki/blob/main/Como%20preparar%20o%20VSCode%20para%20Windows
+- Preparando o VSCode para Windows: https://github.com/podcodar/wiki/blob/main/Como%20preparar%20o%20VSCode%20para%20Windows
 - Baixando Extensões para o VSCode: https://github.com/podcodar/wiki/blob/main/Baixando%20a%20extens%C3%A3o%20pelo%20pr%C3%B3prio%20VSCode
 - Intro GIT: https://github.com/podcodar/wiki/blob/main/IntroGit.md
 
