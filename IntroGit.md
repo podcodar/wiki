@@ -26,3 +26,9 @@ Aqui, separamos algumas funcionalidades do git, no uso do dia a dia:
 | Git pull     | Para mesclar todas as alterações presentes no repositório remoto para o diretório de trabalho local, o comando pull é usado.                                                    |
 | Git log      | Executar o comando git log exibe uma lista de compromissos em uma ramificação, juntamente com os detalhes pertinentes.                                                          |
 | Git diff     | O comando git diff é usado para listar os conflitos.                                                                                                                            |
+
+---
+
+## GIT Sheet Cheats
+
+![comandos para o terminal](images/GIT.png)
