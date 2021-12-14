@@ -1,3 +1,5 @@
+> ⚠️ WARNING: this repository is deprecated. Please access our wiki page in [wiki.podcodar.com](http://wiki.podcodar.com)
+
 # wiki
 
 ![PodCodar Logo](https://avatars.githubusercontent.com/u/60588381?s=200&v=4)
